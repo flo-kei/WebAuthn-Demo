@@ -2,19 +2,32 @@
 :customcss: style.css
 
 ifndef::imagesdir[:imagesdir: ./images]
-// :title-slide-background-image: background.jpg
+//:title-slide-background-image: webauthn-background.png
 
 [.title-slide]
-= WebAuthn
+[%notitle]
+= ⠀
 
+== Are you tired of falling victim to phishing?
+image::phishing-6573326.png[640,540]
+
+=== Then WebAuthn might be just what you need
+image::shield.png[shield.png,size=contain,height=400]
 
 == What's WebAuthn?
 * x
 * y
 * z
 
-
-=== How does WebAuthn solve problems?
+== How does WebAuthn solve problems?
 * x
 * y
 * z
+
+== How does it work?
+
+
+== What do I need to get started?
+
+
+
