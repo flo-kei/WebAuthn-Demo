@@ -12,7 +12,7 @@ ifndef::imagesdir[:imagesdir: ./images]
 image::phishing-6573326.png[640,540]
 
 === Then WebAuthn might be just what you need
-image::shield.png[shield.png,size=contain,height=400]
+image::shield.png[size=contain,height=400]
 
 == What's WebAuthn?
 * x
@@ -25,9 +25,17 @@ image::shield.png[shield.png,size=contain,height=400]
 * z
 
 == How does it work?
+// https://webauthn.me/introduction
+
+[.auth0.background]
+=== ⠀
+image::1-Web-Authentication-Entities.png[background, size=contain, border=none]
+
+[.auth0.background]
+=== ⠀
+image::2-Registration.png[background, size=contain, border=none]
 
 
 == What do I need to get started?
-
 
 

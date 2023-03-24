@@ -9,3 +9,7 @@
 }
 
 .reveal .lightbg { background: #fff8f1d0; }
+
+section.auth0.background {
+    background-color: #202122;
+}
