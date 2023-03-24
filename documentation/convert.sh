@@ -10,8 +10,6 @@ echo "inputDir => $inputDir"
 echo "outputDir => $outputDir"
 echo "convertSlides => $convertSlides"
 
-rm -rf dist
-
 docker run \
     -v $PWD/:/app \
     -e INPUT_SLIDES=$convertSlides \
