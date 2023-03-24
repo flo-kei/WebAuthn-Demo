@@ -1,0 +1,20 @@
+// :customcss: css/presentation.css
+:customcss: style.css
+
+ifndef::imagesdir[:imagesdir: ./images]
+// :title-slide-background-image: background.jpg
+
+[.title-slide]
+= WebAuthn
+
+
+== What's WebAuthn?
+* x
+* y
+* z
+
+
+=== How does WebAuthn solve problems?
+* x
+* y
+* z
