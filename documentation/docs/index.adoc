@@ -1,0 +1,19 @@
+
+
+= Web Authentication
+
+== How to get started with Web Authentication
+
+=== What you need:
+
+* Server
+** Contains implementations of 'Relying Party Operations'
+which are required for a server to support Web Authentication. (such as registering authenticators and authenticating registered authenticators)
+** https://github.com/Yubico/java-webauthn-server
+
+
+* Client (Runs on Browser)
+** https://simplewebauthn.dev/docs/packages/browser/
+
+
+
