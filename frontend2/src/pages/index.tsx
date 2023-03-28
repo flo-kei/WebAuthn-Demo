@@ -11,7 +11,14 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className="flex min-h-screen flex-col items-center justify-center">
-        <button className="btn">something</button>
+          <article className="prose">
+            <h1 className="justify-self-center">WebAuthn Demo</h1>
+          </article>
+        <div className="grid gap-4">
+          <div></div>
+          <button className="btn w-24 justify-self-center">Login</button>
+          <button className="btn w-24 justify-self-center">Logout</button>
+        </div>
       </main>
     </>
   );
