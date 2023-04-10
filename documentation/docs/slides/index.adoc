@@ -15,14 +15,15 @@ image::phishing-6573326.png[640,540]
 image::shield.png[size=contain,height=400]
 
 == What's WebAuthn?
-* x
-* y
-* z
+* API specification by W3C
+* Public key-based authentication for the web
+* Uses Security-keys and hardware-built-in authenticators
 
-== How does WebAuthn solve problems?
-* No more shared secrets
-* y
-* z
+== Which problems does WebAuthn solve?
+* No more shared secrets (passwords)
+* Phishing becomes a lot harder
+** Key-pairs are scoped to the website
+* No more reused or weak passwords
 
 == How does it work?
 // https://webauthn.me/introduction
@@ -37,5 +38,9 @@ image::2-Registration.png[background, size=contain, border=none]
 
 
 == What do I need to get started?
+An authenticator:
 
+* Security key (e.g. Yubikey, Google Titan Security Key, Kensington Verimark Guard, +many others)
+* Built-in authenticator (e.g. Windows Hello / Apple TouchID / Android Phone)
 
+as well as a website that supports WebAuthn
