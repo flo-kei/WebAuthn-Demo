@@ -1,4 +1,4 @@
-package org.acme.security.webauthn;
+package at.flokei.boundary;
 
 import javax.annotation.security.RolesAllowed;
 import javax.ws.rs.GET;

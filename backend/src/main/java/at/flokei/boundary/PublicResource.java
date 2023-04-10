@@ -1,4 +1,4 @@
-package org.acme.security.webauthn;
+package at.flokei.boundary;
 
 import java.security.Principal;
 

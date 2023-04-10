@@ -1,4 +1,4 @@
-package org.acme.security.webauthn;
+package at.flokei.control;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -8,6 +8,9 @@ import java.util.Set;
 
 import javax.enterprise.context.ApplicationScoped;
 
+import at.flokei.entity.User;
+import at.flokei.entity.WebAuthnCertificate;
+import at.flokei.entity.WebAuthnCredential;
 import io.quarkus.hibernate.reactive.panache.common.runtime.ReactiveTransactional;
 import io.quarkus.security.webauthn.WebAuthnUserProvider;
 import io.smallrye.mutiny.Uni;

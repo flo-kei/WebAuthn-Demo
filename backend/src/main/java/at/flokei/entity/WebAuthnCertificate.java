@@ -1,4 +1,4 @@
-package org.acme.security.webauthn;
+package at.flokei.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.ManyToOne;

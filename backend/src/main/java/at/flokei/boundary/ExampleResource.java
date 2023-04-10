@@ -1,4 +1,4 @@
-package at.flokei;
+package at.flokei.boundary;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;

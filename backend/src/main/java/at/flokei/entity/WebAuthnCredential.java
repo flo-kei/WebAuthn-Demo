@@ -1,4 +1,4 @@
-package org.acme.security.webauthn;
+package at.flokei.entity;
 
 import java.util.ArrayList;
 import java.util.List;
