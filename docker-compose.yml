@@ -1,0 +1,19 @@
+version: '3'
+
+services:
+  # backend: 
+  #   build: 
+  #     context: backend
+
+  frontend:
+    build: 
+      context: frontend2
+    ports:
+      - 3000:3000
+
+  db:
+    image: postgres:15.2
+    environment:
+      - POSTGRES_PASSWORD=S*Lg3!iP6I5D9W!2!dT!
+    ports:
+      - "5432:5432"
