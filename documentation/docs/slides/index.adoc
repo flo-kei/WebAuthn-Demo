@@ -20,7 +20,7 @@ image::shield.png[size=contain,height=400]
 * z
 
 == How does WebAuthn solve problems?
-* x
+* No more shared secrets
 * y
 * z
 
