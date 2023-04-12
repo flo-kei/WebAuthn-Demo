@@ -16,4 +16,6 @@ which are required for a server to support Web Authentication. (such as register
 ** https://simplewebauthn.dev/docs/packages/browser/
 
 
+A detailed overview of server and client implementations can be found at:
+https://github.com/herrjemand/awesome-webauthn
 
